@@ -14,6 +14,8 @@
 - [11 Micro Frontends Frameworks You Should Know](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20)
 - [How to Build a Micro Frontend with Webpack's Module Federation Plugin](https://www.bitovi.com/blog/how-to-build-a-micro-frontend-architecture-with-angular)
 - [Module Federation and Angular Service Workers (PWA)](https://www.bitovi.com/blog/module-federation-and-angular-service-workers-pwa)
+- [4 Practical Ways to Build Micro Frontends](https://codeburst.io/4-practical-ways-to-build-micro-frontends-4dc4f0b8a921)
+- [Micro Frontends for Mobile with Ionic Portals](https://ionic.io/resources/articles/micro-frontends-for-mobile-with-ionic-portals)
 ## 📹 Videos
 
 - [Micro-Frontends: What, why and how](https://www.youtube.com/watch?v=w58aZjACETQ)
@@ -22,7 +24,7 @@
 - [Micro Frontend Architecture - Luca Mezzalira, DAZN](https://www.youtube.com/watch?v=BuRB3djraeM)
 - [What Are Micro-Frontends & How to Use Them • Luca Mezzalira & Lucas Dohmen • GOTO 2022](https://www.youtube.com/watch?v=-thWgobMW_I)
 - [Scaling your projects with Micro-frontends - talk by Luca Mezzalira](https://www.youtube.com/watch?v=9q5gTmKYQuw)
-
+- [Micro-Frontends anti-patterns - talk by Luca Mezzalira](https://hasgeek.com/jsfoo/microfrontends-conf/sub/micro-frontends-anti-patterns-Y7WWDT2M1zAbz9DFb79TxX)
 ## 📚 Books
 
 - [Building Micro-Frontends By Luca Mezzalira](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)
