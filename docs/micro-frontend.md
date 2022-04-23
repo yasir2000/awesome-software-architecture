@@ -16,6 +16,7 @@
 - [Module Federation and Angular Service Workers (PWA)](https://www.bitovi.com/blog/module-federation-and-angular-service-workers-pwa)
 - [4 Practical Ways to Build Micro Frontends](https://codeburst.io/4-practical-ways-to-build-micro-frontends-4dc4f0b8a921)
 - [Micro Frontends for Mobile with Ionic Portals](https://ionic.io/resources/articles/micro-frontends-for-mobile-with-ionic-portals)
+- [Micro-Frontend Architecture In The Harness Software Delivery Platform](https://harness.io/blog/continuous-delivery/micro-frontends-architecture/?utm_source=linkedinpost&utm_id=pavan)
 ## 📹 Videos
 
 - [Micro-Frontends: What, why and how](https://www.youtube.com/watch?v=w58aZjACETQ)
