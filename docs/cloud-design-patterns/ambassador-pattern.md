@@ -1,10 +1,9 @@
 
 # Ambassador Pattern
 
-## Articles
+## 📕 Articles
 
 - [Ambassador pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+## Videos
+- [Sidecar Pattern to SIMPLIFY services or just more COMPLEXITY?](https://www.youtube.com/watch?v=9zAjtcf9Wyo)
