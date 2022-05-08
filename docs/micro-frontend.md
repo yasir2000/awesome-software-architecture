@@ -17,6 +17,8 @@
 - [4 Practical Ways to Build Micro Frontends](https://codeburst.io/4-practical-ways-to-build-micro-frontends-4dc4f0b8a921)
 - [Micro Frontends for Mobile with Ionic Portals](https://ionic.io/resources/articles/micro-frontends-for-mobile-with-ionic-portals)
 - [Micro-Frontend Architecture In The Harness Software Delivery Platform](https://harness.io/blog/continuous-delivery/micro-frontends-architecture/?utm_source=linkedinpost&utm_id=pavan)
+- [State of frontend 2022](https://tsh.io/state-of-frontend/)
+- [Sharing Components in a Micro-Frontend Architecture](https://medium.com/sap-cic/sharing-components-in-a-micro-frontend-architecture-965641e20c7c)
 ## 📹 Videos
 
 - [Micro-Frontends: What, why and how](https://www.youtube.com/watch?v=w58aZjACETQ)
@@ -28,9 +30,9 @@
 - [Micro-Frontends anti-patterns - talk by Luca Mezzalira](https://hasgeek.com/jsfoo/microfrontends-conf/sub/micro-frontends-anti-patterns-Y7WWDT2M1zAbz9DFb79TxX)
 ## 📚 Books
 
-- [Building Micro-Frontends By Luca Mezzalira](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)
-- [Micro Frontends in Action By Michael Geers](https://www.manning.com/books/micro-frontends-in-action)
-- [The Art of Micro Frontends By Florian Rappl](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568)
+- [Building Micro-Frontends By Luca Mezzalira - August 2021](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)
+- [Micro Frontends in Action By Michael Geers- August 2020](https://www.manning.com/books/micro-frontends-in-action)
+- [The Art of Micro Frontends By Florian Rappl - June 2021](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568)
 
 ## 🔊 Podcasts
 
